@@ -1,11 +1,15 @@
 {
-  "name": "intro-to-node",
-  "version": "1.0.0",
-  "description": "Week 4-5 Nodejs apps and backend development",
+  "name": "string-analyzer",
+  "version": "1.0.1",
+  "description": "A JavaScript package that provides a function to analyze a given string and returns various details about it, such as its length, character count, word count, presence of numbers, special characters, whitespace, and whether it's a palindrome.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sumuditha Lansakara",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LaXnZ/intro-to-node-js.git"
+  },
   "license": "ISC"
 }
