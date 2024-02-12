@@ -44,6 +44,7 @@ json
   "containsWhitespace": true,
   "isAllUpperCase": false,
   "isAllLowerCase": false,
-  "isPalindrome": true}
+  "isPalindrome": true
+}
 
 ```
