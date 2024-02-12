@@ -1,7 +1,7 @@
 {
   "name": "string-analyzer",
-  "version": "1.0.1",
-  "description": "A JavaScript package that provides a function to analyze a given string and returns various details about it, such as its length, character count, word count, presence of numbers, special characters, whitespace, and whether it's a palindrome.",
+  "version": "1.1.1",
+  "description": "A JavaScript package that provides a function to analyze a given string and returns various details about it, such as its length, character count, word count, presence of numbers, special characters, whitespace, and whether it's a palindrome. Additionally, it includes functionalities for character frequency analysis, counting vowels and consonants, checking for anagrams and antigrams, assessing readability, and performing string transformations like reversing and capitalizing.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "author": "Sumuditha Lansakara",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LaXnZ/intro-to-node-js.git"
+    "url": "https://github.com/LaXnZ/string-analyzer.git"
   },
   "license": "ISC"
 }
