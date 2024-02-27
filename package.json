@@ -4,7 +4,8 @@
   "description": "A JavaScript package that provides a function to analyze a given string and returns various details about it, such as its length, character count, word count, presence of numbers, special characters, whitespace, and whether it's a palindrome. Additionally, it includes functionalities for character frequency analysis, counting vowels and consonants, checking for anagrams and antigrams, assessing readability, and performing string transformations like reversing and capitalizing.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "echo 'Thank you for installing string-analyzer! If you find this package helpful, please consider giving it a star on GitHub: https://github.com/LaXnZ/string-analyzer'"
   },
   "author": "Sumuditha Lansakara",
   "repository": {
